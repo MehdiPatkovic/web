@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: repeating-linear-gradient(gray,white);
+    font-family: 'Roboto Slab', serif;
+}
+p{
+    padding: 225px;
+}
+.bosna{
+    color:rgb(122, 120, 120)
+}
+.bosna:hover{
+    color:whitesmoke
+}
+h1{
+    padding: 15px;
+}
